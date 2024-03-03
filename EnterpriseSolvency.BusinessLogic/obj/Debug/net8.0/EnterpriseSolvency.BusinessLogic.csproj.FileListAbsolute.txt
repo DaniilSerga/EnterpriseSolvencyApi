@@ -1,0 +1,15 @@
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\bin\Debug\net8.0\EnterpriseSolvency.BusinessLogic.deps.json
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\bin\Debug\net8.0\EnterpriseSolvency.BusinessLogic.dll
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\bin\Debug\net8.0\EnterpriseSolvency.BusinessLogic.pdb
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\bin\Debug\net8.0\EnterpriseSolvency.Model.dll
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\bin\Debug\net8.0\EnterpriseSolvency.Model.pdb
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\EnterpriseSolvency.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\EnterpriseSolvency.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\EnterpriseSolvency.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\EnterpriseSolvency.BusinessLogic.AssemblyInfo.cs
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\EnterpriseSolvency.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\Enterpri.2F184B06.Up2Date
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\EnterpriseSolvency.BusinessLogic.dll
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\refint\EnterpriseSolvency.BusinessLogic.dll
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\EnterpriseSolvency.BusinessLogic.pdb
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.BusinessLogic\obj\Debug\net8.0\ref\EnterpriseSolvency.BusinessLogic.dll

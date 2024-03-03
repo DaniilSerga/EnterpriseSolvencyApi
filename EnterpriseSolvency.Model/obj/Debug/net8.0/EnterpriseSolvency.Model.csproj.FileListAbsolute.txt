@@ -1,0 +1,14 @@
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\bin\Debug\net8.0\EnterpriseSolvency.Model.deps.json
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\bin\Debug\net8.0\EnterpriseSolvency.Model.runtimeconfig.json
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\bin\Debug\net8.0\EnterpriseSolvency.Model.dll
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\bin\Debug\net8.0\EnterpriseSolvency.Model.pdb
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.csproj.AssemblyReference.cache
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.AssemblyInfo.cs
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.dll
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\refint\EnterpriseSolvency.Model.dll
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.pdb
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\EnterpriseSolvency.Model.genruntimeconfig.cache
+C:\Users\danii\source\repos\EnterpriseSolvency\EnterpriseSolvency.Model\obj\Debug\net8.0\ref\EnterpriseSolvency.Model.dll

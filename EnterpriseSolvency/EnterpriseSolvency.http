@@ -1,0 +1,6 @@
+@EnterpriseSolvency_HostAddress = http://localhost:5204
+
+GET {{EnterpriseSolvency_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
